@@ -84,7 +84,6 @@ define(['middleware','jquery', 'validation'], function(middleware, $, validation
     // REDACTED
 
     (function init() {
-        // if guest checkout hide title????
         $formContainer.show();
         $addressForm.show();
         $sameAddressContainer.hide();
