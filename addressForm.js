@@ -1,5 +1,3 @@
-// billingAddressForm Module
-
 define(['middleware','jquery', 'validation'], function(middleware, $, validation) {
 
     // DATA (Model)
