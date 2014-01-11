@@ -1,7 +1,7 @@
 define(['middleware', 'jquery'], function(middleware, $){
 
     // DATA
-    var context = nike.ocp.context;
+    var context = middleware.context;
 
     // UI Elements
     var $contactInfoContainer = $('#contactInfoContainer');
